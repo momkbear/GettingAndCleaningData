@@ -43,25 +43,25 @@ The following files are available for the train and test data. Their description
 *   An identifier of the subject who carried out the experiment."
  e new labels  
    
-ORIGINAL        |       NEW NAME (where xyz is either x, y, or z)  
+ORIGINAL 	->			  		 NEW NAME (where xyz is either x, y, or z)  
 -------------           -----------------------------------------
-tBodyAcc-XYZ            timebodyaccelartionxyz      
-tGravityAcc-XYZ         timegravityaccelartionxyz  
-tBodyAccJerk-XYZ        timebodyAccerlationjerkxyz  
-tBodyGyro-XYZ           timebodygyroscopexyz  
-tBodyGyroJerk-XYZ       timebodygyroscopejerkxyz  
-tBodyAccMag             timebodyaccelerationMag  
-tGravityAccMag          timegravityaccelerationMag  
-tBodyAccJerkMag         timebodyaccelerationjerkMag  
-tBodyGyroMag            timebodygyroscopeMag  
-tBodyGyroJerkMag        tbodygyroscopejerkMag  
-fBodyAcc-XYZ            freqbodyaccelerationxyz  
-fBodyAccJerk-XYZ        freqbodyaccelerationjerkxyz  
-fBodyGyro-XYZ           freqbodygyroxyz  
-fBodyAccMag             freqbodyaccelerationMag  
-fBodyAccJerkMag         freqbodyaccelerationjerkMag  
-fBodyGyroMag            freqbodygyroscopeMag  
-fBodyGyroJerkMag        freqbodygyroscopejerkMag  
+tBodyAcc-XYZ ->					timebodyaccelartionxyz      
+tGravityAcc-XYZ 	->	     timegravityaccelartionxyz  
+tBodyAccJerk-XYZ 	->	       timebodyAccerlationjerkxyz  
+tBodyGyro-XYZ   	->	        timebodygyroscopexyz  
+tBodyGyroJerk-XYZ  	->	     timebodygyroscopejerkxyz  
+tBodyAccMag       	->	      timebodyaccelerationMag  
+tGravityAccMag     	->	     timegravityaccelerationMag  
+tBodyAccJerkMag    	->	     timebodyaccelerationjerkMag  
+tBodyGyroMag      	->	      timebodygyroscopeMag  
+tBodyGyroJerkMag   	->	     tbodygyroscopejerkMag  
+fBodyAcc-XYZ      	->	      freqbodyaccelerationxyz  
+fBodyAccJerk-XYZ   	->	     freqbodyaccelerationjerkxyz  
+fBodyGyro-XYZ     	->	      freqbodygyroxyz  
+fBodyAccMag       	->	      freqbodyaccelerationMag  
+fBodyAccJerkMag   	->	      freqbodyaccelerationjerkMag  
+fBodyGyroMag      	->	      freqbodygyroscopeMag  
+fBodyGyroJerkMag    	->	    freqbodygyroscopejerkMag  
 
 ####Transformations
 1.  Merged "train" datasets with "test" datasets into one dataset
