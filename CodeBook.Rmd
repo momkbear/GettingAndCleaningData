@@ -63,7 +63,7 @@ fBodyAccJerkMag   	->	      freqbodyaccelerationjerkMag
 fBodyGyroMag      	->	      freqbodygyroscopeMag  
 fBodyGyroJerkMag    	->	    freqbodygyroscopejerkMag  
 
-####Transformations
+###Transformations
 1.  Merged "train" datasets with "test" datasets into one dataset
 2.  Added features name table to dataset as column headers
 3.  Replaced activity codes with activity labels
